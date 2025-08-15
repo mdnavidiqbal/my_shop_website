@@ -47,6 +47,14 @@ nav li:first-child{
     margin-right: auto;
     font-size: 30px;
 }
+.navbar h3{
+    padding: 0 30px;
+    font-size: 30px;
+}
+.sidebar h3{
+    padding: 0 30px;
+    font-size: 30px;
+}
 .sidebar{
     position: fixed;
     top: 0;
